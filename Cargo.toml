@@ -4,4 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+env_logger = "0.11.5"
+etherparse = "0.16.0"
+log = "0.4.22"
 tun-tap = "0.1.4"
